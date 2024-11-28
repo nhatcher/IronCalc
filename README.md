@@ -27,6 +27,8 @@
 
 IronCalc is a new, modern, work-in-progress spreadsheet engine and set of tools to work with spreadsheets in diverse settings.
 
+Hello!
+
 This repository contains the main engine and the xlsx reader and writer.
 
 Programmed in Rust, you will be able to use it from a variety of programming languages like Python, JavaScript (wasm), nodejs and possibly R, Julia or Go.
